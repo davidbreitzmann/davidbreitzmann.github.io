@@ -1,5 +1,6 @@
 body {
-  background: url(../img/bg.jpg) no-repeat center center fixed; 
+  background: url( http://farm6.staticflickr.com/5052/5424510126_5b5d987413_o.jpg) no-repeat center center fixed; 
+  /*background: url(../img/bg.jpg) no-repeat center center fixed; */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
